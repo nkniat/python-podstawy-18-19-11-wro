@@ -28,3 +28,5 @@ for element in my_big_tuple:
     print(i, ":", element)
     i += 1
 
+print(my_big_tuple)
+print(my_big_tuple[::-1])

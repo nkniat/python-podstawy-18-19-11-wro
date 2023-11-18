@@ -1,3 +1,5 @@
+# podejście 1 - klasyczne
+
 listaSlow = ["kajak", "mama", "axa", "myszka"]
 
 for slowo in listaSlow:
@@ -32,3 +34,4 @@ for slowo in listaSlow:
         print("Słowo", slowo, "jest palindromem")
     else:
         print("Słowo", slowo, "nie jest palindromem")
+
